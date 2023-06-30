@@ -1,2 +1,2 @@
 # IPOO
-Trabajos prácticos de IPOO
+Entregas de IPOO
